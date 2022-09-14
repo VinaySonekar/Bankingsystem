@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = '2(u$87!a(-j##^#o0ufl(fudp+4!!nmu-fag1)d1))*r3za7h@'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['https://sparks-bankingg.herokuapp.com/','localhost','127.0.0.1']
 
